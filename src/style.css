@@ -1,0 +1,20 @@
+.res {
+   padding: 0px 10px 0px 10px;
+   text-align: right;
+}
+
+.resDisplay {
+   border: 2px solid black;
+   width: 220px;
+}
+
+
+.btnContainer {
+   border: 2px solid black;
+   width: 200px;
+   padding: 10px;
+}
+
+.btn4 button {
+   width: 25%;
+}
